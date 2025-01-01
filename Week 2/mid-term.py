@@ -81,8 +81,8 @@ def menu():
         else:
             print("Invalid choice. Please select a valid option.")
 
-Book("101", "Python Programming", "John Doe")
-Book("102", "Data Structures", "Jane Smith")
-Book("103", "Machine Learning", "Alan Turing")
+Book("1", "Python Coding", "John Doe")
+Book("2", "Data Structures", "Jane Smith")
+Book("3", "Math 101", "Alan Turing")
 
 menu()
